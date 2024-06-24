@@ -18,3 +18,6 @@ Architecture model:
 
 Entities:
 ![Entities](./entities.png)
+
+- Recommendation to use Schema.org (google visibility) if REST API is chosen as a solution
+    
